@@ -3,7 +3,7 @@ int main()
 {
 char hi[] = "Programming is like building a multilingual puzzle" ;
  
-  put(hi) ;
+  puts(hi) ;
 
 
 	return 0 ; 
