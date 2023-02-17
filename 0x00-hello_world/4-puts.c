@@ -1,9 +1,13 @@
-#include<stdio.h>
-/*fuck betty */ 
+include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-char hi[]= "\"Programming is like building a multilingual puzzle";
-puts(hi);
-return (0); 
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
 
